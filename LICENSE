@@ -1,0 +1,79 @@
+K2-Standard v2.0
+THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY
+
+(prefix):
+	Definitions:
+       
+    (a) All references to “License” in this document shall refer to the document itself, in its 	entirety. 
+       
+    (b) All references to “You” or “Your” shall refer to the person or Legal Entity that is exercising the 	terms of this license.
+        
+    (c) All references to "Software" shall refer to the work of authorship, whether in Source or object 	form, made available under this License, including but not limited to: programs, applications, 	libraries, scripts, and associated documentation. 
+        
+    (d) All references to “Source” shall refer to the original form of the Software, in the preferred form 	for modifications, including but not limited to: Software source code, documentation source, 	and configuration files. 
+       
+       
+    (e)  All references to “Distribute” or “Distribution” shall refer to making the Software available to 	other persons or Legal Entities, including but not limited to: providing copies, making available 	for others to download, incorporating into a product or service accessible to others, or 	deploying on publicly accessible systems.
+        
+    (f) All references to "Attribution" shall refer to the act of giving credit to the original author(s) of 	the Software by displaying the copyright notice and license information as specified in this 	License.
+        
+    (g)  All references to “Private use” shall refer to the use of the Software excluding Distribution.
+        
+
+1. Grant of rights:
+
+    (a) This Software is hereby released under the ‘K2-Standard v2.0’ License, and all terms that 	come with it. By using, modifying or distributing this Software, You hereby agree to the terms 	of the License, and recognize that this Software comes with no warranty, and is released under 	an“AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
+       
+    (b)  This Software is free to distribute, modify, or use, by any entity, present or future.
+        
+    (c) Using or linking the Software in a larger work does not make the larger work subject to this 	License, only the original Software and its modifications remain under this License, whilst 	retaining the mandate for Attribution.
+
+        
+    (d)  Attribution Requirements: 
+       
+                    1. Private use of this Software does not require attribution.
+
+                    2. Upon Distribution of this Software, You must provide Attribution to the original author(s)
+                    3. Attribution must be visible to recipients of the Software in at least one of the following locations: application About screen, README file, CREDIT file, website footer, or primary documentation.
+                    4. Attribution must include: the original copyright notice, and the statement that the original Software was placed under the K2-Standard v2.0 license.
+
+    (e)  Modifications:
+		
+    1. Upon modification and Distribution of the Software, You must indicate that changes were made.
+    2. Modified versions must retain all original Attribution and add Your own copyright notice.
+
+
+
+2. Disclaimer of Liability: 
+
+In no event shall the author(s) of this Software be liable for any claim, damages, or other liability, 
+whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the 
+Software or the use or other dealings in the Software. This includes, but is not limited to, direct, 
+indirect, incidental, special, exemplary, or consequential damages (including loss of use, data, or 
+profits; or business interruption), even if advised of the possibility of such damage. 
+
+This Software is provided on an "AS-IS" basis, to the maximum extent permitted by applicable law, 
+and no warranty of any kind is provided unless required by law or agreed to in writing.
+
+3. Termination:
+
+    (a) This License and the rights granted hereunder will terminate automatically if You failed to comply with any of its terms and conditions.
+       
+    (b)  Upon termination, You have exactly 30 days to cure the violation or cease Distribution of the Software and destroy all copies in Your possession.
+        
+    (c)  Sections 2 (Disclaimer of Liability) and this Section 3 (Termination) shall survive any 	termination of this License.
+
+4. Patent grant:
+
+	Each contributor grants You a perpetual, worldwide, non-exclusive, royalty-free patent license to make, use, and distribute the Software.
+
+5. Trademark:
+	
+	Each contributor or modifier of this Software is granted the right to use the project/software name, 	logo, and promotional materials, provided that:
+	
+        1. Any use of these materials in derivative/modified works must clearly and prominently indicate that the derivative work is not associated with, endorsed by, or an official work by the original author(s)
+       
+        2. Such indications must be visible in the same locations where the project name or logo appears.
+
+
+Copyright © 2025 Joseph Jones
